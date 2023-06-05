@@ -65,7 +65,7 @@ duvera_EU_res = stats.pearsonr(duvera_EU['National Government Trust'], duvera_EU
 duvera_EU_res
 # Formulace výsledku testu (na základě p-hodnoty).
     # PearsonRResult(statistic=0.6097186340024556, pvalue=0.0007345896228823398)
-    #p-hodnota < 0.05,  zamítáme H0, plati tedy, ze duvera lidi v narodni vladu a duvera lidi v EU jsou statisticke zavisle.
+    #p-hodnota < 0.05,  zamítáme H0, plati tedy, ze duvera lidi v narodni vladu a duvera lidi v EU jsou linearne zavisle.
 
 
 
